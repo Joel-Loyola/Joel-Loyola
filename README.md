@@ -1,5 +1,5 @@
 <p>
-  <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/3b7b5260-115a-4e15-bacc-55820b7e4f6c" /> alt="Cloud Security — CSPM, IAM and Hardening" width="100%">
+  <img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/3b7b5260-115a-4e15-bacc-55820b7e4f6c"
 </p>
 
 
