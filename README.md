@@ -1,8 +1,3 @@
-# Hi there 👋
-
-<!--
-**Joel-Loyola/Joel-Loyola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Learning stack
 
 ![Cisco](https://img.shields.io/badge/Cisco-161B22?style=flat-square&logo=cisco&logoColor=58C4DC)
