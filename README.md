@@ -6,8 +6,5 @@
 ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=58C4DC)
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=58C4DC)
 
-# Current focus
 
-- Strengthening networking fundamentals through practical labs.
-- Learning secure cloud configuration and least privilege.
-- Developing skills in system hardening and Python automation.
+
